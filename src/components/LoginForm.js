@@ -26,7 +26,7 @@ const LoginForm = () => {
     }
 
     return(
-        <div className='wrapper'>
+       <div className='wrapper'>
             <div className='form'>
                 <h1 className='title'>Bahadir Omer Cakmak</h1><hr/>
                 <br/>
@@ -44,6 +44,7 @@ const LoginForm = () => {
             </div>
 
         </div>
+     
     )
 
 

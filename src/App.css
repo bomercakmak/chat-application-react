@@ -175,12 +175,14 @@
     padding: 0px 18px;
     outline: none;
     font-size: 15px;
+    
   }
   
   .image-button {
     cursor: pointer;
     padding: 0px 12px;
     height: 100%;
+    
   }
   
   .send-button {
@@ -265,6 +267,19 @@
     cursor: pointer;
     margin: 5px;
     width: 90%;
+  }
+  .logout-button{
+    width:20%;
+    background: rgb(117,84,160);
+    padding:6px;
+    float:right;
+    margin-top:5px;
+    margin-left:5px;
+    border-radius:15px;
+  }
+  .logout-button:hover{
+    background-color:#3B2A50;
+    color:white
   }
   .button span {
     cursor: pointer;
