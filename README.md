@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # To test the application
 [Try It Out Now!](https://bomercakmak-chat-app.netlify.app/)
 
-Username: githubtest
-Password: githubtest123 
+* Username: githubtest
+* Password: githubtest123 
 
 # Introduction video of my application 
 
@@ -15,11 +15,17 @@ Password: githubtest123
 
 ## Available Scripts Usage
 
-## Available Scripts
+### Install dependencies
 
-In the project directory, you can run:
+```
+npm install
+```
 
-### `npm start`
+### Run React dev server (http://localhost:3000)
+
+```
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
