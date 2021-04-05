@@ -1,4 +1,4 @@
-# Getting Started Youtube MP4 & MP3 Downloader
+# Getting Started CHAT APPLICATION 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
