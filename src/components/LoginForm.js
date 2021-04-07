@@ -29,7 +29,10 @@ const LoginForm = () => {
        <div className='wrapper'>
             <div className='form'>
                 <h1 className='title'>Bahadir Omer Cakmak</h1><hr/>
-                <br/>
+                <p>To test my application </p>
+                <p>Username: githubtest</p>
+                <p>Password: githubtest123  </p>
+                <hr/>
                 <h1 className='title'>Welcome To My Chat Application</h1>
                 <form onSubmit={handleSubmit}>
                     <input type='text' value={username} onChange={(e) => setUsername(e.target.value)} className='input' placeholder='Username' required/>
